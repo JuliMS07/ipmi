@@ -28,7 +28,7 @@ float txt6X = 660;
 
 String texto1 = "Coldplay es una banda británica formada en Londres en 1997 por Chris Martin, Jonny Buckland, Guy Berryman y Will Champion, quienes se conocieron en la universidad.";
 String texto2 = "Al principio tocaban en bares pequeños y lanzaron algunos EPs independientes hasta que en el 2000 sacaron su primer álbum, Parachutes, que los hizo conocidos gracias a canciones como 'Yellow'.";
-String texto3 = "Con el tiempo lanzaron discos muy exitosos como 'A Rush of Blood to the Head' y 'X&Y', donde terminó de convertirse en una banda internacional gracias a tomar como 'Clocks', 'The Scientist' y 'Fix You'.";
+String texto3 = "Con el tiempo lanzaron discos muy exitosos como 'A Rush of Blood to the Head' y 'X&Y', donde terminó de convertirse en una banda internacional gracias a temas como 'Clocks', 'The Scientist' y 'Fix You'.";
 String texto4 = "Aunque comenzaron con un estilo más tranquilo y melancólico, después fueron cambiando su sonido y agregando más pop, electrónica y shows visuales mucho más grandes.";
 String texto5 = "Coldplay también se volvió conocida por sus conciertos, especialmente por las pulseras de luces que usa el público y por la energía positiva que transmiten en vivo.";
 String texto6 = "Hoy Coldplay es una de las bandas más famosas del mundo y sigue haciendo música después de más de 25 años, manteniendo canciones que marcaron a varias generaciones.";
